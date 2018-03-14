@@ -17,6 +17,36 @@ body {
     position: absolute;
 }
 
+.xlcircle {
+    height: 105px;
+    width: 105px;
+    border-radius: 50%;
+    border: 5px solid white;
+    color: white;
+}
+
+.red{
+    background-color: #e6563b;
+}
+
+.orange{
+    background-color: #e89d3a;
+}
+
+.green{
+    background-color: #7cb06c;
+}
+
+.blue{
+    background-color: #00aba9;
+}
+
+.textmiddle {
+    height: 52.5px;
+    padding-top: 30px;
+    font-size: 20px;
+}
+
 .logo {
     height: 105px;
     width: 105px;
