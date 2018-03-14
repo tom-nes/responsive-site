@@ -1,0 +1,24 @@
+body {
+    background-color: #e6e6e6;
+    z-index: 1;
+}
+
+.whiteheader {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    height: 52.5px;
+    z-index: 0;
+    width: 100%;
+    position: absolute;
+}
+
+.logo {
+    height: 105px;
+    width: 105px;
+    border-radius: 50%;
+    display: inline-block;
+    z-index: 1;
+    margin-top: 0.5em;
+}
