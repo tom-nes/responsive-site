@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Anton');
 @import url('https://fonts.googleapis.com/css?family=Abel|Anton');
 body {
-    background-color: #e6e6e6;
+    background-color: #F0F0F0;
     z-index: 1;
     font-family: 'abel', sans-serif;
 }
@@ -54,4 +54,9 @@ body {
     display: inline-block;
     z-index: 1;
     margin-top: 0.5em;
+}
+.img_box{
+    border: 0.5em solid #E6E6E6;
+    border-radius: 5%;
+
 }
