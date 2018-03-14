@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Abel|Anton');
 body {
     background-color: #e6e6e6;
     z-index: 1;
+    font-family: 'abel', sans-serif;
 }
 
 .whiteheader {
