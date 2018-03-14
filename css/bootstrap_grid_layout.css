@@ -25,6 +25,16 @@ body {
     color: white;
 }
 
+.btn-circle{
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    text-align: center;
+    padding: 6px 0;
+    font-size: 12px;
+    line-height: 1px;
+}
+
 .red{
     background-color: #e6563b;
 }
