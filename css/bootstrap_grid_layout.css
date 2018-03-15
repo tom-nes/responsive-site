@@ -5,13 +5,22 @@ body {
     z-index: 1;
     font-family: 'abel', sans-serif;
 }
-h1, h3, h5{
+h1, h3{
     font-family: 'Anton', sans-serif;
+}
+h5{
+    font-family: 'Anton', sans-serif;
+    font-size: 1em;
+
 }
 .small_heading{
     font-size: 0.7em;
 }
 .lg_heading{
+    font-size: 2em;
+}
+
+.xl_heading {
     font-size: 2em;
     margin-right: 20%;
 }
@@ -91,6 +100,10 @@ h1, h3, h5{
     height: 3em;
     width: 3em;
     display: inline-block;
+    float: left;
+}
+.twitter{
+    font-size: 0.6em;
 }
 
 @media screen and (min-width: 992px){
@@ -99,13 +112,13 @@ h1, h3, h5{
         margin-right: 12.5%;
         align-content: center;
     }
-    .lg_heading {
+    .xl_heading {
         margin-right: 15%;
     }
 }
 
 @media screen and (min-width: 1200px){
-    .lg_heading {
+    .xl_heading {
         margin-right: 30%;
     }
 }
